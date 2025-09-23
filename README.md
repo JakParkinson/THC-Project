@@ -4,4 +4,4 @@ This was a group project from the Climate and Ocean Physics course at NBI modell
 
 - A writeup detailing the Stommel 2 box model applied to the Thermohaline Atlatnic Circulation and analysis can be found at: Ocean_Stommel_Project.pdf
 
-- The code associated with the project can be found at https://github.com/JakParkinson/THC-Project/blob/main/Ocean_Code.ipynb
+- The code associated with the project can be found at the file Ocean_Code.ipynb
